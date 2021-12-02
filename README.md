@@ -1,16 +1,15 @@
-### Hi there 👋
+# I am Barış Demirdöken.
 
-<!--
-**barisdemirdoken/BarisDemirdoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at İstanbul Aydın University.
 
-Here are some ideas to get you started:
+## Languages I use
+- HTML5
+- CSS
+- JAVASCRIPT
+## Frameworks
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Accounts
+- barisdemirdoken@icloud.com
+- https://www.linkedin.com/in/bar%C4%B1%C5%9F-demird%C3%B6ken-3785a6224/
