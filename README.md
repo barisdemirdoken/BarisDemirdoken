@@ -8,6 +8,7 @@ I am a student at İstanbul Aydın University.
 - JAVASCRIPT
 ## Frameworks
 - Bootstrap
+- React
 
 
 ## My Accounts
